@@ -1,2 +1,4 @@
+.D*
+*.pyc
 data/
 saved_models/
