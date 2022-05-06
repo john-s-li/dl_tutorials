@@ -20,3 +20,5 @@ dependencies:
     - matplotlib==3.4.3
     - seaborn==0.11.2
     - ipywidgets==7.6.5
+    - torchmetrics==v0.6.0
+    - setuptools==59.5.0
